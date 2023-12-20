@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UR1.3</string>
+    <string name="send">SEND</string>
+    <string name="next">NEXT</string>
+    <string name="email">email</string>
+    <string name="vfv">vfv</string>
+    <string name="vfvh">vfvh</string>
+</resources>
